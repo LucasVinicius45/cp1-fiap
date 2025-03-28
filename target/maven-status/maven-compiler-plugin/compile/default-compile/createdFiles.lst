@@ -1,0 +1,6 @@
+com\example\api\ApiApplication.class
+com\example\api\service\PedidoService.class
+com\example\api\controller\PedidoController.class
+com\example\api\repository\PedidoRepository.class
+com\example\api\config\DataLoader.class
+com\example\api\model\Pedido.class
